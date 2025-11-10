@@ -52,7 +52,6 @@
 
 Изменение фото приветствия  
 
-Добавление информации (22 строка)  
-
+Добавление информации  
 
 <img width="409" height="214" alt="image" src="https://github.com/user-attachments/assets/86072e49-397f-4df1-9a78-3daea3778cbd" />
